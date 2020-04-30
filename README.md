@@ -1,0 +1,4 @@
+# freeCodeCampを進めるためのリポジトリ
+自身の解答を保管するためのリポジトリです.
+
+各レッスンのDescriptionは, ほとんどDeepLとGoogle翻訳を通しただけなので雑です.
