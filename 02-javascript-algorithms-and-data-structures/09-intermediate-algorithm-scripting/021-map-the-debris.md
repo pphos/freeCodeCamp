@@ -1,3 +1,5 @@
+# Map The Debris
+
 ## Description
 <section id='description'>
 要素の平均高度を公転周期(秒単位)に変換する配列を作成してください.
@@ -5,10 +7,10 @@
 公転周期については<a href="http://en.org/wiki/Orbital_period" target='_blank'>Wikipedia</a>を参照してください.
 値は小数点以下を四捨五入して求めてください.
 問題において, 軌道上の物体は地球であり, 地球の半径は6367.4447km, 地球のGM値は398600.4418km<sup>3</sup><sup>-2</sup>です.
+</section>
 
 ## Challenge Seed
-<section id='challengeSeed'>
-<div id='js-seed'>
+<section id='challenge-seed'>
 
 ```js
 function orbitalPeriod(arr) {
@@ -19,7 +21,6 @@ function orbitalPeriod(arr) {
 orbitalPeriod([{name : "sputnik", avgAlt : 35873.5553}]);
 ```
 
-</div>
 </section>
 
 ## My Solutions
